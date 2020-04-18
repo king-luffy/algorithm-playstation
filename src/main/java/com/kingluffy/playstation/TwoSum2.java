@@ -3,6 +3,12 @@ package com.kingluffy.playstation;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * NO. 1
+ *
+ * 使用 hashmap 找另一个数
+ *
+ */
 public class TwoSum2 {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer,Integer> map = getMap(nums);

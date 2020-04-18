@@ -4,11 +4,20 @@ import com.kingluffy.playstation.base.ListNode;
 
 /**
  * No.2
+ *
+ * 双指针依次相加合并链表，记录进位到下一个节点
+ *
  */
 public class AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
+        //进位
         int up=0;
+
+        // 返回参数
         ListNode head = new ListNode(0);
+
+        // 当前指针
         ListNode cur=head;
         ListNode next;
         int v1,v2,tmp;

@@ -2,6 +2,10 @@ package com.kingluffy.playstation;
 
 /**
  * NO. 1
+ *
+ *
+ * 双重循环暴力破解
+ *
  */
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
