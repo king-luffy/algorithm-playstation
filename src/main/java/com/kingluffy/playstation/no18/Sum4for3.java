@@ -1,9 +1,19 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no18;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * No.18
+ *
+ * 四数之和
+ *
+ * 和三数之和同样思路
+ * 使用for循环固定2数
+ *
+ * 再使用双指针寻找目标值
+ */
 public class Sum4for3 {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> res = new ArrayList<>();

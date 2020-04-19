@@ -1,4 +1,4 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no102;
 
 import com.kingluffy.playstation.base.TreeNode;
 
@@ -7,6 +7,11 @@ import java.util.List;
 
 /**
  * No.102
+ *
+ * 二叉树层次遍历
+ *
+ * 每次循环获取当前层的所有子孩子，即下一层
+ *
  */
 public class BinTreeOrderTraversal {
     public List<List<Integer>> levelOrder(TreeNode root) {

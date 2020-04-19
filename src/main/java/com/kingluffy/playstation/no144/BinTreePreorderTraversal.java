@@ -1,10 +1,14 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no144;
 
 import com.kingluffy.playstation.base.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * No.144
+ * 二叉树的先序遍历
+ */
 public class BinTreePreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();

@@ -1,9 +1,18 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no15;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * No.15
+ *
+ * 3数之和
+ *
+ * 固定一位，之后部分头尾双指针向内扫描，相加为零，直到结束
+ *
+ * 注意相加相等的数不可能交叉
+ */
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();

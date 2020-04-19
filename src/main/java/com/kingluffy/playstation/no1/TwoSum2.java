@@ -1,10 +1,10 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no1;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * NO. 1
+ * No.1
  *
  * 使用 hashmap 找另一个数
  *

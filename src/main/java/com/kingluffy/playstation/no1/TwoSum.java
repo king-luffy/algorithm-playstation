@@ -1,7 +1,7 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no1;
 
 /**
- * NO. 1
+ * No.1
  *
  *
  * 双重循环暴力破解

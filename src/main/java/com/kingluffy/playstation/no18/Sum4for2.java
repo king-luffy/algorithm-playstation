@@ -1,4 +1,4 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no18;
 
 import java.util.ArrayList;
 import java.util.Arrays;
