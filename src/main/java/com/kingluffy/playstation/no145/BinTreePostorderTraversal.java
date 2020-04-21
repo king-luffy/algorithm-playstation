@@ -1,10 +1,16 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no145;
 
 import com.kingluffy.playstation.base.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * No.145
+ *
+ * 二叉树的后序遍历
+ *
+ */
 public class BinTreePostorderTraversal {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();

@@ -1,10 +1,16 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no94;
 
 import com.kingluffy.playstation.base.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * No.94
+ *
+ * 二叉树的中序遍历
+ *
+ */
 public class BinTreeInorderTraversal {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();

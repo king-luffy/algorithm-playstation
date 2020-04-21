@@ -1,10 +1,12 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.No104;
 
 
 import com.kingluffy.playstation.base.TreeNode;
 
 /**
  * No.104
+ *
+ * 二叉树最大深度
  */
 public class MaxDepth {
     public int maxDepth(TreeNode root) {
