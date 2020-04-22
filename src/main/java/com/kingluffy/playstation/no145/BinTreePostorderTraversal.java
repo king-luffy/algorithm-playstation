@@ -10,6 +10,7 @@ import java.util.List;
  *
  * 二叉树的后序遍历
  *
+ * 左右中
  */
 public class BinTreePostorderTraversal {
     public List<Integer> postorderTraversal(TreeNode root) {

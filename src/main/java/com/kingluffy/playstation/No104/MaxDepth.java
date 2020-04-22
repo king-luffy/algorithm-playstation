@@ -7,6 +7,8 @@ import com.kingluffy.playstation.base.TreeNode;
  * No.104
  *
  * 二叉树最大深度
+ *
+ * 深度优先遍历，返回路径最大值
  */
 public class MaxDepth {
     public int maxDepth(TreeNode root) {

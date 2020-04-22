@@ -7,7 +7,10 @@ import java.util.List;
 
 /**
  * No.144
+ *
  * 二叉树的先序遍历
+ *
+ * 中左右
  */
 public class BinTreePreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {

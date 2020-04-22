@@ -1,4 +1,4 @@
-package com.kingluffy.playstation;
+package com.kingluffy.playstation.no199;
 
 import com.kingluffy.playstation.base.TreeNode;
 
@@ -8,6 +8,10 @@ import java.util.List;
 
 /**
  * No.199
+ *
+ * 二叉树的右视图
+ *
+ * 层次遍历No.102，并输出层次遍历的最后一个节点
  */
 public class BinTreeRightSideView {
     public List<Integer> rightSideView(TreeNode root) {

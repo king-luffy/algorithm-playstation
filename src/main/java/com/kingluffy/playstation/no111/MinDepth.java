@@ -7,6 +7,7 @@ import com.kingluffy.playstation.base.TreeNode;
  *
  * 二叉树的最小深度
  *
+ * 深度优先遍历，
  */
 public class MinDepth {
     public int minDepth(TreeNode root) {
