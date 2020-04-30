@@ -1,4 +1,4 @@
-package com.kingluffy.playstation.No104;
+package com.kingluffy.playstation.no104;
 
 
 import com.kingluffy.playstation.base.TreeNode;
